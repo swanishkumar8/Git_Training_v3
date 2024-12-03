@@ -8,3 +8,4 @@ This is a sample File 1
 
 Commit revert 1
 This is comparison lectrure 
+ This is stash lecture, change in File 1
