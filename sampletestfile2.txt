@@ -1,4 +1,1 @@
 This is a sample File 2 
-
-
-Git revert 2
